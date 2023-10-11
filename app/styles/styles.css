@@ -1,0 +1,13 @@
+ul li {
+  list-style: none;
+}
+
+ul {
+  list-style: none;
+}
+
+.plans .Polaris-List {
+  margin: 12px 0;
+  border-top: 1px solid #ececec;
+  padding: 10px 0 5px;
+}
